@@ -1,0 +1,968 @@
+@media (max-width:768px) {
+  .kicoinindexunsupported0 {
+    margin-left: 24px;
+    margin-top: 169px;
+    width: 13px;
+    height: 14px
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 12px;
+    margin-top: 208px;
+    height: 10px
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 11px;
+    margin-top: 14px;
+    width: 32px;
+    height: 14px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style2 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    height: 7px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: .6875em;
+    font-weight: 700;
+    margin-left: 35px;
+    margin-top: 22px;
+    height: 17px
+  }
+  .kitcoinrolesrow1 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 5px;
+    width: 59px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow1checkbox0 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow2 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 10px;
+    width: 59px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow2checkbox1 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style5 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow3 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 10px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow3checkbox2 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style6 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow4 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 10px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow4checkbox3 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style7 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow5 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 9px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow5checkbox4 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow6 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 10px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow6checkbox5 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow7 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 11px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow7checkbox6 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style10 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow8 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 13px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow8checkbox7 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style11 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow9 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 13px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow9checkbox8 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style12 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .kitcoinrolesrow10 {
+    display: flex;
+    margin-left: 78px;
+    margin-top: 10px;
+    width: 88px;
+    height: 7px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow10checkbox9 {
+    margin-left: 0;
+    width: 7px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    margin-left: 3px
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 39px;
+    margin-top: 12px;
+    width: 27px;
+    height: 14px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style14 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .4375em;
+    height: 7px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .kicoinindexunsupported0 {
+    margin-left: 49px;
+    margin-top: 346px;
+    width: 27px;
+    height: 29px
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 25px;
+    margin-top: 426px;
+    height: 20px
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 23px;
+    margin-top: 29px;
+    width: 66px;
+    height: 29px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style2 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    height: 14px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.408em;
+    font-weight: 700;
+    margin-left: 72px;
+    margin-top: 45px;
+    height: 35px
+  }
+  .kitcoinrolesrow1 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 10px;
+    width: 121px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow1checkbox0 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow2 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 20px;
+    width: 121px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow2checkbox1 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style5 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow3 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 20px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow3checkbox2 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style6 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow4 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 20px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow4checkbox3 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style7 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow5 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 18px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow5checkbox4 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow6 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 20px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow6checkbox5 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow7 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 23px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow7checkbox6 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style10 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow8 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 27px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow8checkbox7 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style11 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow9 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 27px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow9checkbox8 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style12 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .kitcoinrolesrow10 {
+    display: flex;
+    margin-left: 160px;
+    margin-top: 20px;
+    width: 180px;
+    height: 14px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow10checkbox9 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    margin-left: 6px
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 25px;
+    width: 55px;
+    height: 29px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style14 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .896em;
+    height: 14px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .kicoinindexunsupported0 {
+    margin-left: 59px;
+    margin-top: 415px;
+    width: 32px;
+    height: 34px
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 29px;
+    margin-top: 510px;
+    height: 25px
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 27px;
+    margin-top: 34px;
+    width: 79px;
+    height: 34px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style2 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    height: 17px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.6866666666666665em;
+    font-weight: 700;
+    margin-left: 86px;
+    margin-top: 54px;
+    height: 42px
+  }
+  .kitcoinrolesrow1 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 12px;
+    width: 145px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow1checkbox0 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow2 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 25px;
+    width: 145px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow2checkbox1 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style5 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow3 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 25px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow3checkbox2 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style6 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow4 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 25px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow4checkbox3 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style7 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow5 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 22px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow5checkbox4 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow6 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 25px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow6checkbox5 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow7 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 27px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow7checkbox6 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style10 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow8 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 32px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow8checkbox7 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style11 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow9 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 32px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow9checkbox8 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style12 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .kitcoinrolesrow10 {
+    display: flex;
+    margin-left: 191px;
+    margin-top: 25px;
+    width: 216px;
+    height: 17px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow10checkbox9 {
+    margin-left: 0;
+    width: 17px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    margin-left: 7px
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 96px;
+    margin-top: 29px;
+    width: 66px;
+    height: 34px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style14 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0733333333333333em;
+    height: 17px
+  }
+}
+@media (min-width:1200px) {
+  .kicoinindexunsupported0 {
+    margin-left: 77px;
+    margin-top: 541px;
+    width: 42px;
+    height: 45px
+  }
+  .style0 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 38px;
+    margin-top: 666px;
+    height: 32px
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 35px;
+    margin-top: 45px;
+    width: 102px;
+    height: 45px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style2 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    height: 22px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: 2.2em;
+    font-weight: 700;
+    margin-left: 112px;
+    margin-top: 70px;
+    height: 54px
+  }
+  .kitcoinrolesrow1 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 16px;
+    width: 189px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow1checkbox0 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow2 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 32px;
+    width: 189px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow2checkbox1 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style5 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow3 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 32px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow3checkbox2 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style6 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow4 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 32px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow4checkbox3 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style7 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow5 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 29px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow5checkbox4 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow6 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 32px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow6checkbox5 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow7 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 35px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow7checkbox6 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style10 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow8 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 42px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow8checkbox7 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style11 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow9 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 42px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow9checkbox8 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style12 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .kitcoinrolesrow10 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 32px;
+    width: 282px;
+    height: 22px;
+    align-items: stretch
+  }
+  .kitcoinrolesrow10checkbox9 {
+    margin-left: 0;
+    width: 22px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    margin-left: 10px
+  }
+  .style13 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 89px 89px 0 0 #000;
+    display: flex;
+    margin-left: 125px;
+    margin-top: 38px;
+    width: 86px;
+    height: 45px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style14 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.4000000000000001em;
+    height: 22px
+  }
+}
